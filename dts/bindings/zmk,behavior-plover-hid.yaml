@@ -2,4 +2,4 @@ description: Plover HID steno key press behavior
 
 compatible: "zmk,behavior-plover-hid"
 
-include: one_param.yaml
+include: two_param.yaml

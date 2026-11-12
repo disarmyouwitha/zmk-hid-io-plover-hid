@@ -3,7 +3,7 @@
         /omit-if-no-ref/ plv: plover_hid {
             compatible = "zmk,behavior-plover-hid";
             display-name = "Plover HID";
-            #binding-cells = <1>;
+            #binding-cells = <2>;
         };
     };
 };
